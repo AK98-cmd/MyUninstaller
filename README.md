@@ -1,7 +1,7 @@
 # MyUninstaller
 
-MyUninstaller is an uninstaller for Microsoft Windows. 
-Shows all the installed apps and offer the capability to uninstall them.
+MyUninstaller este o aplicatie compatibila cu Microsoft Windows folosita pentru dezinstalarea aplicatiilor instalate. 
+In ceea ce priveste interfata acestui utilitar aplicatiile si serviciile instalate sunt afisate sub diferite forme de vizualizare(Icons, List si Details) 
 
 ![uninstall](https://user-images.githubusercontent.com/21220570/79119516-34f28a00-7d99-11ea-8cec-43700b7b9d89.png)
 
