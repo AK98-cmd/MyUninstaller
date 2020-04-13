@@ -1,0 +1,55 @@
+c:\users\mihail\documents\visual studio 2010\Projects\Revo\Revo\bin\Debug\Revo.exe
+c:\users\mihail\documents\visual studio 2010\Projects\Revo\Revo\bin\Debug\Revo.pdb
+c:\users\mihail\documents\visual studio 2010\Projects\Revo\Revo\obj\x86\Debug\Revo.Form1.resources
+c:\users\mihail\documents\visual studio 2010\Projects\Revo\Revo\obj\x86\Debug\Revo.Properties.Resources.resources
+c:\users\mihail\documents\visual studio 2010\Projects\Revo\Revo\obj\x86\Debug\Revo.csproj.GenerateResource.Cache
+c:\users\mihail\documents\visual studio 2010\Projects\Revo\Revo\obj\x86\Debug\Revo.exe
+c:\users\mihail\documents\visual studio 2010\Projects\Revo\Revo\obj\x86\Debug\Revo.pdb
+C:\Users\Mihail\Documents\Visual Studio 2010\Projects\Revo\Revo\obj\x86\Debug\Revo.csprojResolveAssemblyReference.cache
+F:\Revo\Revo\obj\x86\Debug\Revo.exe
+F:\Revo\Revo\obj\x86\Debug\Revo.pdb
+F:\Revo\Revo\bin\Debug\Revo.exe
+F:\Revo\Revo\bin\Debug\Revo.pdb
+F:\Revo\Revo\obj\x86\Debug\Revo.csprojResolveAssemblyReference.cache
+F:\Revo\Revo\obj\x86\Debug\Revo.Form1.resources
+F:\Revo\Revo\obj\x86\Debug\Revo.Properties.Resources.resources
+F:\Revo\Revo\obj\x86\Debug\Revo.csproj.GenerateResource.Cache
+F:\Revo\Revo\obj\x86\Debug\Revo.Form2.resources
+F:\Revo\Revo\obj\x86\Debug\Revo.Form3.resources
+E:\Revo\Revo\obj\x86\Debug\Revo.exe
+E:\Revo\Revo\obj\x86\Debug\Revo.pdb
+E:\Revo\Revo\obj\x86\Debug\Revo.csprojResolveAssemblyReference.cache
+E:\Revo\Revo\obj\x86\Debug\Revo.Form1.resources
+E:\Revo\Revo\obj\x86\Debug\Revo.Form2.resources
+E:\Revo\Revo\obj\x86\Debug\Revo.Form3.resources
+E:\Revo\Revo\obj\x86\Debug\Revo.Properties.Resources.resources
+E:\Revo\Revo\obj\x86\Debug\Revo.csproj.GenerateResource.Cache
+E:\Revo\Revo\bin\Debug\Revo.exe
+E:\Revo\Revo\bin\Debug\Revo.pdb
+E:\Net Framework\Revo\Revo\obj\x86\Debug\Revo.exe
+E:\Net Framework\Revo\Revo\obj\x86\Debug\Revo.pdb
+E:\Net Framework\Revo\Revo\bin\Debug\Revo.exe
+E:\Net Framework\Revo\Revo\bin\Debug\Revo.pdb
+E:\Net Framework\Revo\Revo\obj\x86\Debug\Revo.csprojResolveAssemblyReference.cache
+E:\Net Framework\Revo\Revo\obj\x86\Debug\Revo.Form1.resources
+E:\Net Framework\Revo\Revo\obj\x86\Debug\Revo.Form2.resources
+E:\Net Framework\Revo\Revo\obj\x86\Debug\Revo.Form3.resources
+E:\Net Framework\Revo\Revo\obj\x86\Debug\Revo.Properties.Resources.resources
+E:\Net Framework\Revo\Revo\obj\x86\Debug\Revo.csproj.GenerateResource.Cache
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\obj\x86\Debug\Revo.exe
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\obj\x86\Debug\Revo.pdb
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\bin\Debug\Revo.exe
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\bin\Debug\Revo.pdb
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\obj\x86\Debug\Revo.csprojResolveAssemblyReference.cache
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\obj\x86\Debug\Revo.Properties.Resources.resources
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\obj\x86\Debug\Revo.csproj.GenerateResource.Cache
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\obj\x86\Debug\Revo.Options.resources
+E:\Net Framework\APPS\PROFFESIONAL\Revo\Revo\obj\x86\Debug\Revo.MainForm.resources
+E:\Net Framework\APPS\Revo\Revo\obj\x86\Debug\Revo.exe
+E:\Net Framework\APPS\Revo\Revo\obj\x86\Debug\Revo.pdb
+D:\New folder\Net Framework\APPS\Revo\Revo\obj\x86\Debug\Revo.exe
+D:\New folder\Net Framework\APPS\Revo\Revo\obj\x86\Debug\Revo.pdb
+D:\Kituri\C#\Net Framework\APPS\Revo\Revo\obj\x86\Debug\Revo.exe
+D:\Kituri\C#\Net Framework\APPS\Revo\Revo\obj\x86\Debug\Revo.pdb
+D:\Proiecte\~~~\MyUninstaller\Revo\obj\x86\Debug\Revo.exe
+D:\Proiecte\~~~\MyUninstaller\Revo\obj\x86\Debug\Revo.pdb
